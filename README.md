@@ -1,6 +1,6 @@
 <h1>The Weather App</h1>
 
-<img src="The Weather App.png" width="200" height="500">
+<img src="The Weather App.png" width="1080" height="800">
 
 <h2>📄 Project Description</h2>
 <p>
